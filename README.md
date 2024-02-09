@@ -1,5 +1,5 @@
 <hr>
-<style type="text/css">
+<!-- <style type="text/css">
     body{
         background:linear-gradient(to bottom, purple,rgb(0,100,255));
     }
@@ -25,9 +25,9 @@
         border-radius:50px;
         background-color: purple; 
     }
-</style>
+</style> -->
 
-<body>
+<body style="background:linear-gradient(to bottom, purple,rgb(0,100,255));">
     <h1 align="center">jogo do número secreto Alura</h1>
 <div class="main">
 
