@@ -1,33 +1,7 @@
 <hr>
-<style type="text/css">
-    body{
-        background:linear-gradient(to bottom, purple,rgb(0,100,255));
-    }
-    h1{
-        justify-content: space-between;
-        border-radius: 8px;
-        background-color: #121212;
-        padding: 12px;
-        color:#ffffff;
-        font-family:"dm sans",sans-serif;
-        font-weight: bold;
-    }
-    .main{
-        border-radius: 8px;
-        background-color: #121212;
-        padding: 17px;
-    }
-    .ferramentas_utilizadas{
-        padding: 10px;
-        justify-content: space-around;
-        display:flex;
-        align-items:center;
-        border-radius:50px;
-        background-color: purple; 
-    }
-</style>
 
-<body>
+
+<body >
     <h1 align="center">jogo do número secreto Alura</h1>
 <div class="main">
 
@@ -37,7 +11,7 @@
 
 - **[Ferramentas utilizadas](#ferramentas-utilizadas)**
 
-- **[Desenvolvedora](#desenvolvedores)**
+- **[Desenvolvedora](#desenvolvedora)**
 
 ## Descrição do projeto 
 <p class= "Descrição_do_projeto" align="justify">
