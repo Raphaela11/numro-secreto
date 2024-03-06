@@ -1,5 +1,5 @@
 <hr>
-<!-- <style type="text/css">
+<!-- () <style type="text/css">
     body{
         background:linear-gradient(to bottom, purple,rgb(0,100,255));
     }
